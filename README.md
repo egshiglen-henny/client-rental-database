@@ -95,7 +95,7 @@ SOURCE client-rental-database.sql;
 | File | Description |
 |------|--------------|
 | `client-rental-database.sql` | Complete SQL script (DDL, DML, and queries) |
-| `client-rental-database-report.pdf` | Full project documentation and analysis |
+| `client-rental-database-report.pdf` | Full project documentation and analysis [View PDF](client-rental-database-report.pdf) |
 | `README.md` | Project summary and usage instructions |
 
 ---
