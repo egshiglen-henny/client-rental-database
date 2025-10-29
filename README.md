@@ -103,4 +103,4 @@ SOURCE client-rental-database.sql;
 ## 👩‍💻 Author
 **Egshiglen Enkhbayar**   
 📍 Dublin, Ireland  
-🔗 [GitHub](https://github.com/egshiglen-henny) | [LinkedIn](https://linkedin.com/in/egshiglen)
+🔗 [GitHub](https://github.com/egshiglen-henny) | [LinkedIn](https://linkedin.com/in/egshiglene)
